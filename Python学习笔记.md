@@ -31,5 +31,3 @@ with open(data_path, 'r') as file:
 | 2    | 单片机MCU  | 刘振   |
 | 3    | 上位机QT   | 刘振   |
 | 4    | 光子计数器 | 刘振   |
-
-ignort
