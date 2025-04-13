@@ -20,4 +20,5 @@ with open(data_path, 'r') as file:
     data = file.read()
 ```
 
-这段代码首先检查程序是否被`PyInstaller`打包（通过检查 `sys.frozen`）。如果是，它使用 sys._MEIPASS 目录作为应用程序的工作路径。这个目录是PyInstaller创建的临时目录，用于存储所有包含的资源文件。如果程序没有被打包，它就使用脚本的当前目录。
+这段代码首先检查程序是否被`PyInstaller`打包（通过检查 `sys.frozen`）。如果是，它使用 
+sys._MEIPASS 目录作为应用程序的工作路径。这个目录是PyInstaller创建的临时目录，用于存储所有包含的资源文件。如果程序没有被打包，它就使用脚本的当前目录。
