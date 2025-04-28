@@ -1,4 +1,4 @@
-# Bluetooth协议栈
+# BLE协议栈
 
 ```puml
 @startmindmap
