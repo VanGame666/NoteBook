@@ -8,6 +8,17 @@
 | git reset                            | 清除暂存区,工作区不变       |
 | git reset --soft HEAD^               | 撤销上一次发布,工作区不变   |
 
+> ssh-keygen -t rsa -C "SSH"
+> cat ~/.ssh/id_rsa.pub
+> git remote add origin git@github.com:VanGame666/仓库名.git
+
+
+
+
+
+
+
+
 ![](vx_images/496154534353476.png =700x)
 
 ![](vx_images/306487408049241.png =700x)
