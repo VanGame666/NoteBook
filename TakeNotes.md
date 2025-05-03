@@ -3,11 +3,11 @@
 - 开发环境: Git, Cmake, Make, GCC, GDB, OpenOCD
 - 编程语言: C, C++, Python, Verilog
 - 微控制器: STM32, GD32, ESP32, AG32, 瑞萨
-- 通信协议: OneWire, IIC, SPI, UART, CAN, USB, BLE, ETH
+- 通信协议: OneWire, IIC, SPI, UART, CAN, USB, BLE, ETH, MQTT
 - 操作系统: RT-Thread, FreeRTOS
 - 中间组件: FatFS, LWIP, TinyUSB, LVGL
 
-> 1. 良好的代码风格, 面向对象思想编程, 设计模式
+> 1. 良好的编程规范, 面向对象思想编程, 设计模式
 > 2. 分层架构, 熟悉CorteM架构
 > 3. 熟悉上位机设计QT, 掌握socket网络编程
 > 4.  熟悉Jlink, DAP-Link, JTAG, SWD调试
